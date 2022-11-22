@@ -1,0 +1,15 @@
+C:\Users\student3\source\repos\projectA\projectA\bin\Debug\netcoreapp3.1\projectA.exe
+C:\Users\student3\source\repos\projectA\projectA\bin\Debug\netcoreapp3.1\projectA.deps.json
+C:\Users\student3\source\repos\projectA\projectA\bin\Debug\netcoreapp3.1\projectA.runtimeconfig.json
+C:\Users\student3\source\repos\projectA\projectA\bin\Debug\netcoreapp3.1\projectA.runtimeconfig.dev.json
+C:\Users\student3\source\repos\projectA\projectA\bin\Debug\netcoreapp3.1\projectA.dll
+C:\Users\student3\source\repos\projectA\projectA\bin\Debug\netcoreapp3.1\projectA.pdb
+C:\Users\student3\source\repos\projectA\projectA\obj\Debug\netcoreapp3.1\projectA.Form1.resources
+C:\Users\student3\source\repos\projectA\projectA\obj\Debug\netcoreapp3.1\projectA.csproj.GenerateResource.cache
+C:\Users\student3\source\repos\projectA\projectA\obj\Debug\netcoreapp3.1\projectA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student3\source\repos\projectA\projectA\obj\Debug\netcoreapp3.1\projectA.AssemblyInfoInputs.cache
+C:\Users\student3\source\repos\projectA\projectA\obj\Debug\netcoreapp3.1\projectA.AssemblyInfo.cs
+C:\Users\student3\source\repos\projectA\projectA\obj\Debug\netcoreapp3.1\projectA.csproj.CoreCompileInputs.cache
+C:\Users\student3\source\repos\projectA\projectA\obj\Debug\netcoreapp3.1\projectA.dll
+C:\Users\student3\source\repos\projectA\projectA\obj\Debug\netcoreapp3.1\projectA.pdb
+C:\Users\student3\source\repos\projectA\projectA\obj\Debug\netcoreapp3.1\projectA.genruntimeconfig.cache
